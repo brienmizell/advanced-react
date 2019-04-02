@@ -6,12 +6,12 @@ type User {
 
 type Item {
   id: ID! @unique
-  title: string!
-  description: string!
-  image: string
-  largeImage: string
+  title: String!
+  description: String!
+  image: String
+  largeImage: String
   price: Int!
-  # createdAt: DateTime!
-  # updatedAt: DateTime!
+  createAt: DateTime!
+  updatedAt: DateTime!
   # user: User!
 }
