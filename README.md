@@ -1,6 +1,6 @@
 # advanced-react
 
-"Sick Fits", a full stack online clothing store complete with real credit checkout. Users can search, sell, add to cart and checkout their favourite items.
+"Sick Fits", is a full stack online clothing store complete with real credit checkout. Users can search, sell, add to cart and checkout their favourite items.
 
 The application has five main models — Users, Items, Orders, CartItems, and OrderItems — all of which are use relational GraphQL Queries.
 
